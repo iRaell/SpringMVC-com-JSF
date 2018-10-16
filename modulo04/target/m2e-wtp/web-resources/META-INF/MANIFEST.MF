@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: springWebJSF
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: israel
+Implementation-Vendor-Id: br.com.programacaoweb01
+Build-Jdk: 1.8.0_181
+Implementation-URL: http://persapiens.org/springWebJSF
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: JoinFaces
+
