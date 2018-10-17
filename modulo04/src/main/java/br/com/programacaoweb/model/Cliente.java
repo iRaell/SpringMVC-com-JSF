@@ -37,44 +37,12 @@ public class Cliente {
 	private Estado estado;
 
 	public Cliente() {
-// Alterado pelo Git
+
 	}
 
 	public Cliente(String nome) {
 		this.nome = nome;
 
 	}
-
-	public Long getId() {
-		return id;
-	}
-
-	public void setId(Long id) {
-		this.id = id;
-	}
-
-	public String getNome() {
-		return nome;
-	}
-
-	public void setNome(String nome) {
-		this.nome = nome;
-	}
-
-	public Estado getEstado() {
-		return estado;
-	}
-
-	public void setEstado(Estado estado) {
-		this.estado = estado;
-	}
-
-	public List<Contato> getContatos() {
-		return contatos;
-	}
-
-	public void setContatos(List<Contato> contatos) {
-		this.contatos = contatos;
-	}
-
-}
+	
+     }
