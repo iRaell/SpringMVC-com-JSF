@@ -37,7 +37,7 @@ public class Cliente {
 	private Estado estado;
 
 	public Cliente() {
-
+// Alterado pelo Git
 	}
 
 	public Cliente(String nome) {
